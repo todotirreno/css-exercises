@@ -1,20 +1,32 @@
-<!-- Thank you for taking the time to contribute to The Odin Project. In order to get pull requests (PRs) closed in a reasonable amount of time, you must include a baseline of information about the changes you are proposing. Please read this template in its entirety before filling it out to ensure that it is filled out correctly. -->
+<!-- Thank you for taking the time to contribute to The Odin Project. In order to get this pull request (PR) merged in a reasonable amount of time, you must complete this entire template. -->
 
-<!-- Complete the following REQUIRED checkboxes by replacing the whitespace between the square brackets with an 'x', e.g. [x]. -->
-- [ ] I have thoroughly read and understand [The Odin Project Contributing Guide](https://github.com/TheOdinProject/theodinproject/blob/main/CONTRIBUTING.md)
-- [ ] The title of this PR follows the `where the change occurs: brief description of change` format, e.g. `Intro to HTML and CSS lesson: Fix link text`
-
-<!-- Complete the following checkboxes ONLY IF they are applicable to your PR. You can complete these later if they are not currently applicable. -->
-- [ ] If updates were made to any solution code, I have ensured that the Desired Outcome image is accurate
-- [ ] If one exists, I have linked a related open issue to this PR in Step 2 below
-- [ ] If changes were requested, I have made them and re-requested a review from the maintainer (top of the right sidebar)
-
-**1. Description of the Changes**
-<!-- A clear and concise description of your changes. If this PR is not related to an open issue also include why you are proposing these changes, such as what benefits the changes have or what problem(s) they solve. --> 
+## Because
+<!-- Summarize the purpose or reasons for this PR, e.g. what problem it solves or what benefit it provides. -->
 
 
-**2. Related Issue**
-<!-- If the PR is not related to any open issue, skip this step. 
+## This PR
+<!-- A bullet point list of one or more items describing the specific changes. -->
 
-Otherwise, replace the XXXXX with the issue number, e.g. Closes #2013, or if the issue is in another TOP repo replace #XXXXX with the URL of the issue, e.g. Closes https://github.com/TheOdinProject/curriculum/issues/XXXXX -->
+
+## Issue
+<!--
+If this PR closes an open issue in this repo, replace the XXXXX below with the issue number, e.g. Closes #2013.
+
+If this PR closes an open issue in another TOP repo, replace the #XXXXX with the URL of the issue, e.g. Closes https://github.com/TheOdinProject/curriculum/issues/XXXXX
+
+If this PR does not close, but is related to another issue or PR, you can link it as above without the 'Closes' keyword, e.g. 'Related to #2013'.
+-->
 Closes #XXXXX
+
+## Additional Information
+<!-- Any other information about this PR, such as a link to a Discord discussion. -->
+
+
+## Pull Request Requirements
+<!-- Replace the whitespace between the square brackets with an 'x', e.g. [x]. After you create the PR, they will become checkboxes that you can click on. -->
+-   [ ] I have thoroughly read and understand [The Odin Project Contributing Guide](https://github.com/TheOdinProject/.github/blob/main/CONTRIBUTING.md)
+-   [ ] The title of this PR follows the `location of change: brief description of change` format, e.g. `01-flex-center: Update self check`
+-   [ ] The `Because` section summarizes the reason for this PR
+-   [ ] The `This PR` section has a bullet point list describing the changes in this PR
+-   [ ] If this PR addresses an open issue, it is linked in the `Issue` section
+-   [ ] If applicable, I have ensured that the TOP solution files match the Desired Outcome image
